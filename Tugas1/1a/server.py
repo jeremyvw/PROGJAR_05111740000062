@@ -18,10 +18,10 @@ while True:
     while True:
         data = conn.recv(10000)
         print("Received ", data)
-        f = open('Newfile'+'.jpg','a+b')
+        f = open('d:/TC ITS/Smt. 6/Progjar/PROGJAR_05111740000062/Tugas1/1a/Newfile'+'.jpg','a+b')
         if not data:
             f.close()
             break
         f.write(data)
     # Clean up the connection
-    conn.close()
+    conn.close() 

@@ -12,7 +12,8 @@ s.connect(server_address)
 
 try:
     # Send data
-    filename = "Logo.jpg"
+    # filename = "Logo.jpg"
+    filename = "d:/TC ITS/Smt. 6/Progjar/PROGJAR_05111740000062/Tugas1/1a/Logo.jpg"
     f = open(filename,'rb')
     l = f.read()
     s.sendall(l)
