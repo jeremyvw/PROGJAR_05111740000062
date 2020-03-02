@@ -17,7 +17,10 @@ while True:
     # Receive the data in small chunks and retransmit it
     data = conn.recv(10000)
     print("Received ", data)
-    f = open(data.decode(),'rb')
+    direktori = "d:/TC ITS/Smt. 6/Progjar/PROGJAR_05111740000062/Tugas1/1b/"
+    file = direktori + data.decode()
+    print(file)
+    f = open(file,'rb')
     filename = f.read()
     conn.sendall(filename)
     f.close()

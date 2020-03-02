@@ -17,7 +17,7 @@ try:
     print('Sent ', filename)
     while True:
         data = s.recv(100000)
-        newfile = open("new_"+filename,"a+b")
+        newfile = open("d:/TC ITS/Smt. 6/Progjar/PROGJAR_05111740000062/Tugas1/1b/new_"+filename,"a+b")
         if not data:
             newfile.close()
             break
