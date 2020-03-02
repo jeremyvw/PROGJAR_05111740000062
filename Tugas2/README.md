@@ -13,6 +13,8 @@
 
 ![Wireshark Local UDP File Client](SS/wireshark_local_udpfileclient.jpg)
 
+## Sniffing Packet Yang Dikirim ke PC Lain
+
 #### Menjalankan udpsimple dan arahkan alamat ke PC lain
 
 ![Wireshark Wifi UDP Simple](SS/wireshark_wifi_udpsimple.jpg)
