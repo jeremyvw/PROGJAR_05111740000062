@@ -1,6 +1,7 @@
 # Tugas 1
 ### Menyiapkan ketiga server port 31000, 31001, 31002
 
+### Pada PC yang sama
 #### Kondisi Awal Server dan Client
 ![Kondisi Awal](SS/server_init.jpg)
 
@@ -18,3 +19,7 @@
 
 ![31002](SS/server_31002.jpg)
 ![31002](SS/client_31002.jpg)
+
+### Pada PC yang berbeda
+#### Jalankan program server.py di 3 port yang berbeda di 2 komputer yang berbeda
+
