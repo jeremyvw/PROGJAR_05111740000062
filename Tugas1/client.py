@@ -5,7 +5,7 @@ import os
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 # Connect the socket to the port where the server is listening
 port = input("Input the port address: ")
-server_address = ('localhost', int(port))
+server_address = ('192.168.0.12', int(port))
 print("Connecting to ", server_address)
 s.connect(server_address)
 

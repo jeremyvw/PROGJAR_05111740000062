@@ -4,7 +4,7 @@ import os
 # Create a TCP/IP socket
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 # Bind the socket to the port
-server_address = ('localhost', 31002)
+server_address = ('192.168.0.15', 31002)
 print("Starting up on ", server_address)
 s.bind(server_address)
 # Listen for incoming connections
