@@ -25,7 +25,7 @@ class Direct:
         return res
 
     def list_file(self):
-        file_list = os.listdir('files')
+        file_list = os.listdir("files")
         return file_list
 
 if __name__=='__main__':
