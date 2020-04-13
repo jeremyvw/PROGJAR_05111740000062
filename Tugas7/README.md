@@ -59,3 +59,8 @@
 
 ![20](screenshots/R100C100_1.jpg)
 ![21](screenshots/R100C100_2.jpg)
+
+
+## Tabel hasil test
+
+![22](screenshots/Tabel.jpg)
