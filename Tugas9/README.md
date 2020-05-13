@@ -90,6 +90,6 @@
 
 ### Concurrency 100
 
-![27](Screenshots/server_thread_c1_1.jpg)
+![27](Screenshots/server_thread_c100_1.jpg)
 
-![28](Screenshots/server_thread_c1_2.jpg)
+![28](Screenshots/server_thread_c100_2.jpg)
