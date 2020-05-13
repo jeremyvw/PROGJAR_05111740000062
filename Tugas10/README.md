@@ -17,9 +17,15 @@
 ![4](Screenshots/async_server_backend.png)
 ![5](Screenshots/load_balancer_backend.png)
 
-### Stress Benchmark Asynchronous Server + Load Balancer
+## Stress Benchmark Asynchronous Server + Load Balancer Table
 
-![20](Screenshots/)
+![20](Screenshots/async_server_load_balancer_table.png)
+
+## Stress Benchmark Server Thread Table
+
+![21](Screenshots/server_thread_table.png)
+
+## Stress Benchmark Asynchronous Server + Load Balancer
 
 #### Concurrency 1
 
@@ -55,3 +61,40 @@
 
 ![18](Screenshots/async_server_load_balancer_c100_1.png)
 ![19](Screenshots/async_server_load_balancer_c100_2.png)
+
+## Stress Benchmark Thread Server
+
+#### Concurrency 1
+
+![22](Screenshots/server_thread_c1_1.jpg)
+![23](Screenshots/server_thread_c1_2.jpg)
+
+#### Concurrency 5
+
+![24](Screenshots/server_thread_c5_1.jpg)
+![25](Screenshots/server_thread_c5_2.jpg)
+
+#### Concurrency 10
+
+![26](Screenshots/server_thread_c10_1.jpg)
+![27](Screenshots/server_thread_c10_2.jpg)
+
+#### Concurrency 20
+
+![28](Screenshots/server_thread_c20_1.jpg)
+![29](Screenshots/server_thread_c20_2.jpg)
+
+#### Concurrency 30
+
+![30](Screenshots/server_thread_c30_1.jpg)
+![31](Screenshots/server_thread_c30_2.jpg)
+
+#### Concurrency 50
+
+![32](Screenshots/server_thread_c50_1.jpg)
+![33](Screenshots/server_thread_c50_2.jpg)
+
+#### Concurrency 100
+
+![34](Screenshots/server_thread_c100_1.jpg)
+![35](Screenshots/server_thread_c100_2.jpg)
