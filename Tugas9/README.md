@@ -2,6 +2,10 @@
 
 ## Stress Test Apache Benchmark 1000 Request
 
+![29](Screenshots/server_async_table.png)
+
+![30](Screenshots/server_thread_table.png)
+
 ## Asynchronous Server
 
 ![0](Screenshots/server_async_start.png)
