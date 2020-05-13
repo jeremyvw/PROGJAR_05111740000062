@@ -48,7 +48,9 @@
 
 ![14](Screenshots/server_async_c100_2.png)
 
-## Asynchronous Server
+## Thread Server
+
+![00](Screenshots/server_thread_start.png)
 
 ### Concurrency 1
 
@@ -58,12 +60,36 @@
 
 ### Concurrency 5
 
+![17](Screenshots/server_thread_c5_1.jpg)
+
+![18](Screenshots/server_thread_c5_2.jpg)
+
 ### Concurrency 10
+
+![19](Screenshots/server_thread_c10_1.jpg)
+
+![20](Screenshots/server_thread_c10_2.jpg)
 
 ### Concurrency 20
 
+![21](Screenshots/server_thread_c20_1.jpg)
+
+![22](Screenshots/server_thread_c20_2.jpg)
+
 ### Concurrency 30
+
+![23](Screenshots/server_thread_c30_1.jpg)
+
+![24](Screenshots/server_thread_c30_2.jpg)
 
 ### Concurrency 50
 
+![25](Screenshots/server_thread_c50_1.jpg)
+
+![26](Screenshots/server_thread_c50_2.jpg)
+
 ### Concurrency 100
+
+![27](Screenshots/server_thread_c1_1.jpg)
+
+![28](Screenshots/server_thread_c1_2.jpg)
